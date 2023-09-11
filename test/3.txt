@@ -126,7 +126,7 @@
 
 "spider":"https://gitee.com/yangkl_1/my/raw/master/test/0329.zip",
 
-"lives":[{"name": "live","type": 0,"url":"https://gitee.com/yangkl_1/my/blob/master/test/list-lives-230911.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+"lives":[{"name": "live","type": 0,"url":"https://gitee.com/yangkl_1/my/raw/master/test/list-lives-230911.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 
 
