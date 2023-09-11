@@ -249,7 +249,7 @@
 {"key":"csp_xpath_音范丝磁力","name":"爬虫┃音范丝","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/csxxzqh/tvbox/raw/master/menu/%E9%9F%B3%E8%8C%83%E4%B8%9D%E7%A3%81%E5%8A%9B.json","jar":"https://gitee.com/csxxzqh/tvbox/raw/master/menu/%E9%9F%B3%E8%8C%83%E4%B8%9D.jpg"}
 ],
 
-"lives":"https://e.gitee.com/yangkl_1/repos/yangkl_1/my/raw/master/test/TV.txt",
+
 
 "parses":[
 {"name":"自动（如异常请切换）→","type":3,"url":"Demo"},
