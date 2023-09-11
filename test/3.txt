@@ -95,7 +95,7 @@
 {"key":"素白白","name":"🚛素白┃秒播","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/subaibai.js"},
 {"key":"徕米影视","name":"🚛徕米影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./sub/laimi.json"},
 { "key":"速看","name":"🚛速看100", "type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://sk100.tv/api.php/app/"},
-//{"key":"双十电影","name":"🚛双十电影","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"./sub/shuangshi.json"},
+{"key":"双十电影","name":"🚛双十电影","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"./sub/shuangshi.json"},
 {"key":"饭团影视","name":"🚛饭团高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"./sub/fantuan.json"},
 { "key": "1080蓝光", "name": "🚛1080蓝光", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://1080dyw.com/icciu_api.php/v1.vod"},
 {"key":"皮皮鸭","name":"🚛皮皮鸭","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/pipiya.json"},
