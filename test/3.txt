@@ -288,7 +288,9 @@
 "spider":"https://gitee.com/yangkl_1/my/raw/master/test/0329.zip",
 
 
-"lives":"https://e.gitee.com/yangkl_1/repos/yangkl_1/my/raw/master/test/TV.txt",
+"lives":[{  "name": "live",
+		    "type": 0,
+            "url": "https://e.gitee.com/yangkl_1/repos/yangkl_1/my/raw/master/test/TV.txt"}],
 
 //解码模式
 
