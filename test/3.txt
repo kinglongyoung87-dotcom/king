@@ -16,7 +16,7 @@
 {"key": "非凡", "name": "️🐝非凡资源1","type": 1, "api": "https://www.ah121.com/api.php/provide/vod/from/ffm3u8/?at/xml/", "playUrl": "json:https://www.itvbox.cc/fflz.php?url=", "searchable": 1, "quickSearch": 1,"filterable": 1, "categories": [ "国产剧", "综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "港澳剧", "日剧", "欧美剧", "台湾剧", "泰剧", "韩剧", "纪录片", "动漫电影","伦理片"] },
 { "key": "zy_鱼乐资源", "name": " 🐟鱼乐资源", "type": 1, "api": "https://api.ylzy1.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "categories": [ "国产剧", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片", "悬疑片", "犯罪片", "动画片", "奇幻片", "连续剧", "香港剧", "台湾剧", "美国剧", "韩国剧", "日本剧", "综艺", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "动漫", "国产动漫", "日韩动漫", "欧美动漫", "其他剧","伦理片" ] },
 
-{"key": "csp_XBPQ_咕噜咕噜", "name": "💢咕噜咕噜", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable":0, "ext": "https://gitee.com/shen1230/jk/raw/main/bao.json" },
+{"key": "csp_XBPQ_咕噜咕噜", "name": "💢咕噜咕噜", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable":0, "ext": "https://agit.ai/Yoursmile7/TVBox/src/branch/master/sub/%e4%b9%90%e7%8c%aa.json" },
 
  
 
