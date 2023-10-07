@@ -13,7 +13,7 @@ var rule = {
 	filterable:1,//是否启用分类筛选,
 	headers:{'User-Agent':'Dart/2.14 (dart:io)'},
 	timeout:5000,
-	class_name:'电影&电视剧&综艺&动漫&国产剧&伦理剧', // 分类筛选 /api.php/app/nav
+	class_name:'电影&电视剧&综艺&动漫&国产剧', // 分类筛选 /api.php/app/nav
 	class_url:'1&2&3&4&5',
 	play_parse:true,
 	lazy:'js:if(/m3u8|mp4/.test(input)){input}else if(/YuMi/.test(input)){let purl=request("http://61.147.93.21:8090/index.php?url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}else if(/YuMi/.test(input)){let purl=request("http://123.99.192.241:5000/api/jiexi/xg?Key=NLoNjn48GAF3UQdsP0&url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}else if(/qiqi/.test(input)){let purl=request("http://42.51.37.161:5678/json/520238app8/ml77.php?url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',
