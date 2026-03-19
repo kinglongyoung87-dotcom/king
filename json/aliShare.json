@@ -9,76 +9,57 @@
         ]
     },
     {
-        "name": "影视一",
+        "name": "短剧合集",
         "folders": [
-            {
-                "shareId": "dW5pJdgF8c9",
-                "folder": "root"
-            },
             {
                 "shareId": "Y5wMKfVDD6K",
-                "folder": "root"
-            },
+                "folder": "6616613853041ba53f2842918e02346943d980b4"
+            }
+        ]
+    },
+    {
+        "name": "动漫合集",
+        "folders": [
             {
                 "shareId": "LEaepiYfxcw",
+                "folder": "61019a966975bfef583449a39b36da512384b2d7"
+            }
+        ]
+    },
+    {
+        "name": "电影合集",
+        "folders": [
+            {
+                "shareId": "ZHNChQfiPfk",
                 "folder": "root"
             },
             {
-                "shareId": "v1bBBEcNf9p",
+                "shareId": "e27BPgDwxeA",
+                "folder": "root"
+            },
+            {
+                "shareId": "XUH7r6BZuML",
                 "folder": "root"
             }
         ]
     },
     {
-        "name": "影视二",
+        "name": "电视剧合集",
         "folders": [
             {
-                "shareId": "uWa9gbM3RJ7",
-                "folder": "655c7b6c66368f43652a45288146c6e7cb269aa8"
-            }
-        ]
-    },
-    {
-        "name": "影视三",
-        "folders": [
-            {
-                "shareId": "4ydLxf7VgH7",
+                "shareId": "ftMhRaKUfYp",
                 "folder": "root"
-            }
-        ]
-    },
-    {
-        "name": "影视四",
-        "folders": [
+            },
             {
-                "shareId": "5bsnAp5fbCW",
+                "shareId": "8Fg4TNsd2A2",
                 "folder": "root"
-            }
-        ]
-    },
-    {
-        "name": "影视五",
-        "folders": [
+            },
             {
-                "shareId": "dieULBdYP3D",
+                "shareId": "ar8Kg9azw1S",
                 "folder": "root"
-            }
-        ]
-    },
-    {
-        "name": "影视六",
-        "folders": [
+            },
             {
-                "shareId": "sg8CdGUwmUr",
-                "folder": "root"
-            }
-        ]
-    },
-    {
-        "name": "影视七",
-        "folders": [
-            {
-                "shareId": "wHPKUENKFsS",
+                "shareId": "GMYSz3AHFaA",
                 "folder": "root"
             }
         ]

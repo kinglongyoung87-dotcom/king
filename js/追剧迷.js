@@ -4,7 +4,7 @@ var rule = {
 	host: 'https://www.zhuijumi.cc',
 	// url:'/videotype/fyclass-fypage.html',
 	url: '/mp4type/fyclass-fypage.html',
-	searchUrl: '/mp4search/-.html?wd=**',
+	searchUrl: '/vodsearch/**-fypage.html',
 	class_parse: '.fed-part-tips li;a&&Text;a&&href;.*/(.*?).html',
 	cate_exclude: '更多|申请',
 	lazy: `js:
